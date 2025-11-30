@@ -72,11 +72,9 @@ const loadData=async(webpages:string[])=>{
 }
 // 知识库的来源，可配置
 loadData([
-    "https://www.xiaomiev.com/ultra", // 小米su7
-    // "https://www.nio.cn/ec6", // 蔚来 ec6
-    // "https://www.xiaopeng.com/x9_2026.html", // 小鹏 x9
-    // "https://www.lixiang.com/i8", // 理想 i8
-    // "https://www.bmw.com.cn/zh/all-models/m-series/m3-touring/2025/inspire.html",// 宝马 m3
+    "https://en.wikipedia.org/wiki/Ferrari_296", // 法拉利 296
+    // "https://en.wikipedia.org/wiki/Nio_ET9", // 蔚来 ET9
+    // "https://en.wikipedia.org/wiki/BYD_Destroyer_05", // 比亚迪 Destroyer 05
   ]);
 
 
